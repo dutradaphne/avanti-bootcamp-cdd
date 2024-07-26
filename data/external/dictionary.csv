@@ -1,0 +1,10 @@
+variável,descrição,tipo,subtipo
+mpg,milhas percorridas por galão de combustível,quantitativa,contínua
+cylinders,quantidade de cilindros no motor do veículo,quantitativa,discreta
+displacement,cilindrada do motor em centímetros cúbicos (cc),quantitativa,contínua
+horsepower,potência do motor em cavalos de potência (hp),quantitativa,contínua
+weight,peso total do veículo em libras (lbs),quantitativa,contínua
+acceleration,aceleração do veículo (km/h),quantitativa,contínua
+model_year,ano de fabricação do veículo,quantitativa,discreta
+origin,local de fabricação do veículo,qualitativa,nominal
+name,nome comercial do veículo,qualitativa,nominal
